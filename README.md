@@ -1,0 +1,3 @@
+# cmd `brq`
+
+`brq` is the cmd to generate `css`, `color profile` etc...
